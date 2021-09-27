@@ -1,1 +1,2 @@
 This is the first Odin Project project that I'll be doing which is basic recipe website.
+I've finished now and I enjoyed the process. I got to use every aspect of the last few chapters. I learned to always make sure I'm in the root directory when using git to stage and commit, to always remember a message when commiting, and that other image types than the four that were mentioned in the previous chapter work just fine. 
